@@ -234,6 +234,9 @@ function App() {
                         Click here to access Fullstack Spring Boot & React for professionals
                     </a>
                 </Divider>
+                <Divider>
+                    <h4>Make by Amigoscode and FixFax AS 2021 </h4>
+                </Divider>
             </Footer>
         </Layout>
     </Layout>
