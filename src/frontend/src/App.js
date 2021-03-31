@@ -235,7 +235,7 @@ function App() {
                     </a>
                 </Divider>
                 <Divider>
-                    <h4>Make by Amigoscode and FixFax AS</h4>
+                    <h4>Make by Amigoscode and FixFax AS 2021</h4>
                 </Divider>
             </Footer>
         </Layout>
