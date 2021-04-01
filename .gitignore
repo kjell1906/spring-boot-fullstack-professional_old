@@ -36,7 +36,6 @@ build/
 
 # dependencies
 **/node_modules
-**/src/frontend/node/
 **/.pnp
 **/.pnp.js
 
@@ -45,6 +44,7 @@ build/
 
 # production
 **/build
+**/node
 
 # misc
 **/.DS_Store
